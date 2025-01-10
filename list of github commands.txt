@@ -1,0 +1,14 @@
+1. clone github repository
+git clone your_url 
+
+2. download from remote repo
+git pull
+
+2. add new files to repository
+git add -f .
+
+3. give label to new update
+git commit -am "your_update"
+
+4. upload repo to remote repo
+git push
